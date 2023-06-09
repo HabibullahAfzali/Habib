@@ -35,12 +35,3 @@ I'm Habibullah Afzali. I have over four years of experience working as a Team Le
 <br >
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-<br >
-<br >
-
-
-#### Github Stats
-<br>
-<br>
-
-![HabibullahAfzali's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
