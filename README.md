@@ -22,7 +22,7 @@ I'm Habibullah Afzali. I have over four years of experience working as a Team Le
 ### Current Stacks Knowledge
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,vscode,github,git,java,springboot)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,vuejs,bootstrap,vscode,github,git,java)](https://skills.thijs.gg)
 
 <br />
 <br />
