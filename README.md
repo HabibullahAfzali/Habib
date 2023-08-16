@@ -19,10 +19,10 @@ I'm Habibullah Afzali. I have over four years of experience working as a Team Le
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### Current Stacks Knowledg
+### Current Stacks Knowledge
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,vscode,github,git,java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,vscode,github,git,java,spring_boot)](https://skills.thijs.gg)
 
 <br />
 <br />
