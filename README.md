@@ -1,6 +1,6 @@
 ## Hi I'm Habib <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Habibullah Afzali. I have over four years of experience working as a Team Lead and volunteering as a tutor. I am highly detail-oriented, organized, and meticulous in my work. Additionally, I am able to work quickly to meet tight deadlines while maintaining a high level of accuracy. As an enthusiastic team player, I am eager to contribute to the success of the company.
+I'm Habibullah Afzali. I have over four years of experience working as a Software Engineer, Leading the Development Teams and volunteering as a tutor. I am highly detail-oriented, organized, and meticulous in my work. Additionally, I am able to work quickly to meet tight deadlines while maintaining a high level of accuracy. As an enthusiastic team player, I am eager to contribute to the success of the company.
 
 :mailbox: Reach me out!
 
@@ -10,9 +10,9 @@ I'm Habibullah Afzali. I have over four years of experience working as a Team Le
 
 - 🔭 I’m currently not working
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with programming algorithm.
+- 🤔 I’m looking for help with programming algorithms.
 - 📫 How to reach me: hbafzali@gmail.com.
-- ⚡ Fun fact: I watch documentary and love to spent my free time with family and friends.
+- ⚡ Fun fact: I watch documentaries and love to spend my free time with family and friends.
 
 - ### My Target is to learn the below  Top Technologies
 
